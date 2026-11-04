@@ -1,3 +1,5 @@
+import "../css/Default.css"
+
 function Default() {
 
 }
