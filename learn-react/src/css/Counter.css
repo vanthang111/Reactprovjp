@@ -1,0 +1,28 @@
+.wrapper-content {
+    .wrapper-button {
+        display: flex;
+        justify-content: center;
+        gap: 2em;
+    }
+
+    .btn-decrease {
+        width: 120px;
+        padding: 8px 16px;
+        cursor: pointer;
+    }
+
+    .btn-reset {
+        width: 120px;
+        padding: 8px 16px;
+        cursor: pointer;
+        background-color: antiquewhite;
+    }
+
+    .btn-increase {
+        width: 120px;
+        padding: 8px 16px;
+        cursor: pointer;
+        color: white;
+        background-color: black;
+    }
+}
