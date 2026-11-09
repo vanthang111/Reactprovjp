@@ -1,0 +1,7 @@
+.wrapper-content {
+    .btn-generate {
+        width: 120px;
+        padding: 8px 16px;
+        cursor: pointer;
+    }
+}
